@@ -1,0 +1,5 @@
+21:50:16.141 [main] INFO  Kaitan.Final.Home - Driver is Initialized
+21:50:35.137 [main] DEBUG Kaitan.Final.Home - login details entered successfully
+21:50:38.968 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.PoolThreadCache - Freed 17 thread-local buffer(s) from thread: AsyncHttpClient-1-2
+21:50:38.968 [AsyncHttpClient-1-4] DEBUG io.netty.buffer.PoolThreadCache - Freed 3 thread-local buffer(s) from thread: AsyncHttpClient-1-4
+21:50:38.971 [AsyncHttpClient-1-6] DEBUG io.netty.buffer.PoolThreadCache - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-6

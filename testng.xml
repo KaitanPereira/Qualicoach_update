@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Kaitan.Final.CreateUser"/>
+      <class name="Kaitan.Final.UserEdit"/>
+      <class name="StudentCheck.StudentVerify"/>
+      <class name="Kaitan.Final.CreateCourse"/>
+      <class name="Kaitan.Final.Home"/>
+      <class name="Kaitan.Final.DownloadFile"/>
+      <class name="Kaitan.Final.AppTest"/>
+      <class name="StudentCheck.StudentHome"/>
+      <class name="Kaitan.Final.UserDelete"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
